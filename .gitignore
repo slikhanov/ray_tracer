@@ -2,3 +2,4 @@ obj
 Makefile
 ray_tracer
 ray_tracer.make
+*.ppm
